@@ -7,9 +7,18 @@
 
 import SwiftUI
 
-struct Home: View {
+struct Home: View {    
     var body: some View {
-        Text(/*@START_MENU_TOKEN@*/"Hello, World!"/*@END_MENU_TOKEN@*/)
+        NavigationStack {
+            VStack {
+                NavView()
+                PostView()
+                NavigationLink(destination: CreatePostView()) {
+                    CreateButtonView()
+                }
+            }
+            .background(.black)
+        }
     }
 }
 
