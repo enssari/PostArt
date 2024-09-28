@@ -1,5 +1,7 @@
 # PostArt
 
+Some Screenshots Taken Inside of the App.
+
 <img width="558" alt="Screenshot 2024-09-28 at 1 38 30 PM" src="https://github.com/user-attachments/assets/cd9753c2-e13b-42af-8b6d-e519ebcfec29">
 <img width="558" alt="Screenshot 2024-09-28 at 1 38 26 PM" src="https://github.com/user-attachments/assets/22eab869-46c8-4c43-bb99-a1d935ccf25d">
 <img width="558" alt="Screenshot 2024-09-28 at 1 38 14 PM" src="https://github.com/user-attachments/assets/458da5fc-dd25-4ca1-adcf-f3eba944a235">
